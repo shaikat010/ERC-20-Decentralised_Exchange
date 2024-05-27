@@ -1,4 +1,4 @@
-# BlockchainExpert - ERC20 and DEX Contract
+# ERC20 and DEX Contract
 
 This project provides two smart contracts, one that implements a ERC20 token and another that allows users to sell/transfer their tokens. This project includes automated testing and a slim frontend for interacting with these contracts.
 
